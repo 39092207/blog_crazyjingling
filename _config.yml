@@ -12,7 +12,7 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://39092207.github.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -58,7 +58,7 @@ tag: 2
 ## http://www.senchalabs.org/connect/logger.html
 port: 4000
 server_ip: localhost
-logger: false
+logger: true
 logger_format: dev
 
 # Date / Time format
@@ -79,7 +79,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: light
 exclude_generator:
 
 # Deployment
